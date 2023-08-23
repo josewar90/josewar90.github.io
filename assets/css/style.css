@@ -14,7 +14,7 @@ body {
 .wrapper {
     width: 100vw;
     height: 100vh;
-    background-image: url(../img/FONDO.jpg);
+    background-color: rgb(26, 77, 143);
     background-size: cover;
     background-repeat: no-repeat;
     color: #fff;
@@ -150,7 +150,7 @@ span {
 .portafolio {
     width: 100vw;
     height: 150vh;
-    background-image: url(../img/FONDO.jpg);
+    background-color: rgb(26, 77, 143);;
     background-size: cover;
     background-repeat: no-repeat;
     color: #fff;
